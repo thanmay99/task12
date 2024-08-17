@@ -1,0 +1,12 @@
+var str="gfuhieiuei";
+console.log(str.slice(0,4));
+var st="hduej dij";
+console.log(st.length);
+console.log(st.toUpperCase());
+var s='  biji jdo  ';
+console.log(s.toLowerCase());
+console.log(s.trim());
+var t=',';
+console.log(t.replace(',','t'));
+var r=89+'hello'+90/9;
+console.log(r);
